@@ -1,4 +1,4 @@
-# Altitude Test for Web Developers
+# Test for Web Developers - Altitude Labs
 
 Hi guys!
 
@@ -13,7 +13,7 @@ node app.js
 #### Steps I Followed
 
 1. First I sliced up the psd image on Photoshop into different parts and used the 'Save for Web' function to export the images.
-2. Step 1 created a bunch of html divs. I edited the divs to give them unique ids and also edited the css so that my final design resembles the original psd design.
+2. Step 1 created a bunch of html divs. I edited the divs and give them unique ids and also edited the css so that my final design resembles the original psd design.
 3. I wrote my code to manipulate the leaderboard table in script.js where I update the relevant html elements when the Poller has new results every 15 seconds.
 
 * [index.ejs](views/pages/index.ejs)
