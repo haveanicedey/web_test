@@ -1,4 +1,4 @@
-# Altitude Test - Web Developers
+# Altitude Test for Web Developers
 
 Hi guys!
 
