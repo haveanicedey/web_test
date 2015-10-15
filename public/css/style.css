@@ -1,0 +1,229 @@
+.redText {
+    color: red;
+    font-size: 18px;
+}
+
+#image {
+	position: absolute;
+  	left: 0;
+  	top: 0;
+}
+
+#text1 {
+	z-index: 100;
+  	position: absolute;
+  	color: white;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+#text2 {
+	z-index: 100;
+  	position: absolute;
+  	color: white;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+#text3 {
+	z-index: 100;
+  	position: absolute;
+  	color: white;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+#text4 {
+	z-index: 100;
+  	position: absolute;
+  	color: white;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+#text5 {
+	z-index: 100;
+  	position: absolute;
+  	color: white;
+  	font-size: 18px;
+  	font-weight: bold;
+}
+
+#tweet1 {
+	z-index: 100;
+  	position: absolute;
+  	color: LightGray;
+  	font-size: 15px;
+}
+
+#tweet2 {
+	z-index: 100;
+  	position: absolute;
+  	color: LightGray;
+  	font-size: 15px;
+}
+
+#tweet3 {
+	z-index: 100;
+  	position: absolute;
+  	color: LightGray;
+  	font-size: 15px;
+}
+
+#tweet4 {
+	z-index: 100;
+  	position: absolute;
+  	color: LightGray;
+  	font-size: 15px;
+}
+
+#tweet5 {
+	z-index: 100;
+  	position: absolute;
+  	color: LightGray;
+  	font-size: 15px;
+}
+
+#Table_01 {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:800px;
+	height:600px;
+}
+
+#AwesomeBands-01_ {
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:800px;
+	height:213px;
+}
+
+#AwesomeBands-02_ {
+	position:absolute;
+	left:0px;
+	top:213px;
+	width:800px;
+	height:22px;
+}
+
+#AwesomeBands-03_ {
+	position:absolute;
+	left:0px;
+	top:235px;
+	width:196px;
+	height:365px;
+}
+
+#band-name1_ {
+	position:absolute;
+	left:196px;
+	top:235px;
+	width:174px;
+	height:46px;
+}
+
+#AwesomeBands-05_ {
+	position:absolute;
+	left:370px;
+	top:235px;
+	width:112px;
+	height:365px;
+}
+
+#band-tweet1_ {
+	position:absolute;
+	left:482px;
+	top:235px;
+	width:121px;
+	height:45px;
+}
+
+#AwesomeBands-07_ {
+	position:absolute;
+	left:603px;
+	top:235px;
+	width:197px;
+	height:365px;
+}
+
+#band-tweet2_ {
+	position:absolute;
+	left:482px;
+	top:280px;
+	width:121px;
+	height:42px;
+}
+
+#band-name2_ {
+	position:absolute;
+	left:196px;
+	top:281px;
+	width:174px;
+	height:41px;
+}
+
+#band-name3_ {
+	position:absolute;
+	left:196px;
+	top:322px;
+	width:174px;
+	height:41px;
+}
+
+#band-tweet3_ {
+	position:absolute;
+	left:482px;
+	top:322px;
+	width:121px;
+	height:41px;
+}
+
+#band-name4_ {
+	position:absolute;
+	left:196px;
+	top:363px;
+	width:174px;
+	height:42px;
+}
+
+#band-tweet4_ {
+	position:absolute;
+	left:482px;
+	top:363px;
+	width:121px;
+	height:42px;
+}
+
+#band-name5_ {
+	position:absolute;
+	left:196px;
+	top:405px;
+	width:174px;
+	height:47px;
+}
+
+#band-tweet5_ {
+	position:absolute;
+	left:482px;
+	top:405px;
+	width:121px;
+	height:47px;
+}
+
+#AwesomeBands-16_ {
+	position:absolute;
+	left:196px;
+	top:452px;
+	width:174px;
+	height:148px;
+}
+
+#AwesomeBands-17_ {
+	position:absolute;
+	left:482px;
+	top:452px;
+	width:121px;
+	height:148px;
+}
