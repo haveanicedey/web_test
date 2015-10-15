@@ -4,7 +4,7 @@ Hi guys!
 
 Thanks for taking interest in me.
 
-For this test, I used NodeJS for the backend. The node modules I used are express, cookie-parser and ejs. After you git clone this repo, you can run
+For this test, I used NodeJS for the backend. The node modules I used are express, cookie-parser and ejs. After you git clone this repo, navigate to the root directory and run the following on Terminal
 
 ```
 node app.js
