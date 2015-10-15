@@ -2,15 +2,15 @@
 
 Hi guys!
 
-Thanks for taking an interest in me.
+Thanks for taking interest in me.
 
-I used NodeJS for the backend. The node modules I used are express, cookie-parser and ejs. After you git clone this repo, you can run
+For this test, I used NodeJS for the backend. The node modules I used are express, cookie-parser and ejs. After you git clone this repo, you can run
 
 ```
 node app.js
 ```
 
-#### My Steps
+#### Steps I Followed
 
 1. First I sliced up the psd image on Photoshop into different parts and used the 'Save for Web' function to export the images.
 2. Step 1 created a bunch of html divs. I edited the divs to give them unique ids and also edited the css so that my final design resembles the original psd design.
