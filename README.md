@@ -10,7 +10,7 @@ For this test, I used NodeJS for the backend. The node modules I used are expres
 node app.js
 ```
 
-Then on your browser go to (http://localhost:8888/) to test the code
+Then on your browser go to **http://localhost:8888/** to test the code
 
 #### Steps I Followed
 
